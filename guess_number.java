@@ -11,7 +11,7 @@ public class gess_number {
         int guess = 0;
         int attempts = 0;
 
-        System.out.println("Welcome to Number Guessing Game!");
+        System.out.println("Welcome to Number Guessing Game!*");
         System.out.println("Guess a number between 1 and 100");
 
         while (guess != number) {
